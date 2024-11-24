@@ -19,6 +19,8 @@ r_calculo_novas_receitas.ipynb: Versão em Python do script calculo_novas_receit
 
 predict.ipynb: O código principal em Python que treina e executa os modelos de previsão.
 
+sub_covid_mean.ipynb, model_forecast_v2.ipynb são códigos em python adicionais que mostram algumas tentativas para circundar o problema da covid nas estimações.
+
 Os dados foram obtidos no Google Cloud Console, na pasta rj-smtr/transito/receita_autuacao. A query utilizada para obter a base foi uma consulta para pegar toda a base de dados disponível. O pré-processamento, treinamento e execução dos modelos estão todos no código predict.ipynb.
 
 # Desafios e Ideias
